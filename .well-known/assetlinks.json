@@ -1,0 +1,11 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lgvoltup.app",
+      "sha256_cert_fingerprints":[
+        "DB:61:F0:6F:56:45:A4:35:AA:4E:5A:30:B8:49:98:28:1D:DF:EC:90:91:D4:20:1E:AD:65:FA:6B:90:31:02:55",
+        "62:48:0A:06:4C:1C:91:E3:6A:F2:EE:DD:5E:26:47:08:6A:44:7F:B9:EB:20:D9:6E:8F:A2:96:61:A8:B7:31:6D"
+      ]
+    }
+  }]
